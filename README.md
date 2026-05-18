@@ -11,6 +11,7 @@ A manual audit of a single Google Ads account takes 4-6 hours of senior PPC time
 [![Version](https://img.shields.io/github/v/release/AgriciDaniel/claude-ads?label=public%20release)](https://github.com/AgriciDaniel/claude-ads/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/AgriciDaniel/claude-ads/ci.yml?branch=main&label=public%20CI)](https://github.com/AgriciDaniel/claude-ads/actions)
 [![Community](https://img.shields.io/badge/AI%20Marketing%20Hub-Pro%20community-purple)](https://www.skool.com/ai-marketing-hub-pro)
+[![GitHub org](https://img.shields.io/badge/AI%20Marketing%20Hub-GitHub-181717?logo=github&logoColor=white)](https://github.com/AI-Marketing-Hub)
 
 **Host support:**
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Verified-brightgreen)](https://claude.ai/claude-code)
